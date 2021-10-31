@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 20px;
+    padding: 20px;
+
+
+
+
+
+
+
+
+
+
+    
+@media all and (max-width: 500px){
+    body{
+        
+    }
+    h1{
+        font-size: 20px;
+        width: 50%; 
+        height: 50%;
+    }
+    p{
+        font-size: 20px;
+          width: 50%; 
+        height: 50%;
+    }
+    h2{ 
+        font-size: 20px;
+         height: 50%;
+         width: 50%; 
+    }
+        
+        
+    ol{
+        font-size: 25px;
+          width: 50%;  
+        height: 50%;
+    }
+    img{
+        height: 50%;
+        width: 50%;
+    }
+
+}
